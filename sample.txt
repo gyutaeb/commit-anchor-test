@@ -2,7 +2,7 @@ line 1: initial content
 line 2: initial content
 line 3: modified by commit 1
 line 4: initial content
-line 5: initial content
+line 5: modified by commit 2
 line 6: initial content
 line 7: initial content
 line 8: initial content
